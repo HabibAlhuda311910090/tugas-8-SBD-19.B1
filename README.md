@@ -16,4 +16,4 @@ ada 4 tabel <br>
             
 # screenshoot Home
 
-h
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/81343412/119441974-3c80b280-bd51-11eb-9d15-a59ff2e290b8.PNG">
